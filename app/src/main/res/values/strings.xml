@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Handleliste</string>
+    <string name="add_item_textfield">Skriv inn ny vare</string>
+    <string name="add_item_button">Legg til</string>
+</resources>
